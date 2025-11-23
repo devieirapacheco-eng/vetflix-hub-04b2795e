@@ -43,6 +43,10 @@ All colors MUST be HSL.
     --video-card-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
     --glow: 75 65% 55%;
     --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    
+    /* BNM Calculator */
+    --bnm-green: 142 76% 36%;
+    --bnm-green-foreground: 0 0% 100%;
   }
 }
 
