@@ -49,6 +49,10 @@ export default {
           hover: "hsl(var(--card-hover))",
         },
         glow: "hsl(var(--glow))",
+        bnmGreen: {
+          DEFAULT: "hsl(var(--bnm-green))",
+          foreground: "hsl(var(--bnm-green-foreground))",
+        },
       },
       fontFamily: {
         sans: ['Inter', 'sans-serif'],
